@@ -1,4 +1,5 @@
-Text To What is a python program that is meant to function as a Text Alternator
+Text To What is a python program that is meant to function as a simple Text Alternator.
+It is constructed using Tkinter and it's serves as an exercise.
 
 Swapping caps on and off and letters with specific characters using a random number generator
 
@@ -6,15 +7,13 @@ The User is supposed to type the input into a window and press enter or click a 
 
 After the output is printed and two buttons appear; one to copy the text and one to save it in a text file
 
-Step by step guide
+Step by step guide of creation
 
 1. Create window and accept input text
 
 2. Limit acceptable characters
 
 3. Alter text according to rules
-    3.i Random Cap On or Off
-    3.ii Specific character swap (a for @)
 
 4. Print output
 
